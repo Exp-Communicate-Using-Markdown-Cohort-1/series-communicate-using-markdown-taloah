@@ -7,3 +7,7 @@ $ python3 el_mas_grande.py
 Execute the python program to play the music
 
 ```
+- [x] Campeonato Nacional
+- [ ] Copa Ecuador
+- [ ] Copa Libertadores
+- [ ] Copa Sudamericana
